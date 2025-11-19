@@ -1,0 +1,7 @@
+# Sample queries for RAG system
+# Lines starting with # are comments and will be ignored
+# One query per line
+
+What are Zurik and Zorba?
+Where is the Eriez World Headquarters?
+What is the Eriez recycling process?
